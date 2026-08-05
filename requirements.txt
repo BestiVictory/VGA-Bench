@@ -1,0 +1,27 @@
+# Python 3.10 / CUDA 12.4 inference environment
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch==2.4.0+cu124
+torchvision==0.19.0+cu124
+
+# Qwen3-VL + LoRA inference
+transformers==5.12.1
+ms-swift==4.4.2
+peft==0.19.1
+accelerate==1.14.0
+qwen-vl-utils==0.0.14
+decord==0.6.0
+av==17.1.0
+
+# Video/image processing and scoring
+numpy==1.26.4
+pandas==2.0.1
+pillow==10.2.0
+opencv-python-headless==4.10.0.84
+tqdm==4.66.5
+
+# VAQA local CLIP utilities import these packages at module load time
+boto3==1.35.99
+requests==2.32.3
+ftfy==6.3.1
+regex==2024.11.6

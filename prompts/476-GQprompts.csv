@@ -1,0 +1,477 @@
+ind,prompt,prompt_cn,types,tokens
+GQ00000,Elon Musk sitting down.,马斯克坐下。,"人名,动作",4
+GQ00001,Michael Jordan standing up.,乔丹站起。,"人名,动作",4
+GQ00002,Kobe Bryant turning around.,科比·布莱恩特转身。,"人名,动作",4
+GQ00003,Madonna bending over.,麦当娜弯腰。,"人名,动作",3
+GQ00004,Charlie Chaplin hands on hips.,查理·卓别林双手叉腰。,"人名,动作",5
+GQ00005,Lionel Messi patting shoulder.,梅西拍肩。,"人名,动作",4
+GQ00006,Cristiano Ronaldo crossing arms.,C罗抱胸。,"人名,动作",4
+GQ00007,Angelina Jolie raising hand.,安吉丽娜·朱莉抬手。,"人名,动作",4
+GQ00008,Brad Pitt typing on a keyboard.,布拉德·皮特打字。,"人名,动作",6
+GQ00009,Arnold Schwarzenegger writing.,施瓦辛格写字。,"人名,动作",3
+GQ00010,Bruce Lee opening a door.,李小龙开门。,"人名,动作",5
+GQ00011,Steve Jobs closing a door.,史蒂夫·乔布斯关门。,"人名,动作",5
+GQ00012,Johnny Depp singing.,约翰尼·德普唱歌。,"人名,动作",3
+GQ00013,Lady Gaga yawning.,Lady Gaga打哈欠。,"人名,动作",3
+GQ00014,Donald Trump blinking.,特朗普眨眼。,"人名,动作",3
+GQ00015,Barack Obama chewing.,奥巴马咬东西。,"人名,动作",3
+GQ00016,Vladimir Putin swimming.,普京游泳。,"人名,动作",3
+GQ00017,Jack Ma riding a bicycle.,马云骑自行车。,"人名,动作",5
+GQ00018,Yao Ming driving a car.,姚明开车。,"人名,动作",5
+GQ00019,Andy Lau dancing.,刘德华跳舞。,"人名,动作",3
+GQ00020,Albert Einstein,爱因斯坦,人名,2
+GQ00021,Marilyn Monroe,玛丽莲·梦露,人名,2
+GQ00022,Michael Jackson,迈克尔·杰克逊,人名,2
+GQ00023,Audrey Hepburn,奥黛丽·赫本,人名,2
+GQ00024,Jackie Chan,成龙,人名,2
+GQ00025,Albert Einstein,爱因斯坦,人名,2
+GQ00026,Taylor Swift,泰勒·斯威夫特,人名,2
+GQ00027,Leonardo DiCaprio,莱昂纳多·迪卡普里奥,人名,2
+GQ00028,Emma Watson,艾玛·沃特森,人名,2
+GQ00029,Jay Chou,周杰伦,人名,2
+GQ00030,"A young woman looks down at her phone on the balcony, with a clear face, body slightly leaning forward, showing a focused expression, wearing a white shirt and jeans, leaning against the right side of the railing.",一位年轻女子在阳台上低头看手机，面部清晰，身体微微前倾，露出专注的神情，穿着白色衬衫和牛仔裤，靠在栏杆右侧。,人生成质量,37
+GQ00031,"A teenage boy jumps to shoot on the outdoor basketball court, face slightly frowning with effort, wearing a sleeveless jersey and shorts, his body suspended in front of the hoop.",一名少年在室外篮球场跳起投篮，面部因用力而微微皱眉，身穿无袖球衣和短裤，身体悬空在篮筐前方。,人生成质量,30
+GQ00032,"An elderly man sits sideways on a garden bench, smiling, with a relaxed posture leaning against the backrest, wearing a plaid shirt and beige trousers, positioned at the lower left of the frame.",一位老人在花园长椅上侧坐，面带微笑，姿态放松地靠着椅背，穿着格子衬衫和米色裤子，位置在画面的左下方。,人生成质量,33
+GQ00033,"A chef chops carrots at the kitchen counter, with a focused face, wearing a white chef’s uniform and tall hat, body slightly leaning toward the ingredients.",一名厨师站在厨房操作台前切胡萝卜，面容专注，穿着白色厨师服和高帽，身体微微前倾靠近食材。,人生成质量,26
+GQ00034,"A young man holds a skateboard at the street corner, smiling slightly, with a casual posture, wearing a gray hoodie and sneakers, standing near the right side of the wall.",一位年轻男子在街角扶着滑板，嘴角上扬，姿态轻松，穿着灰色连帽衫和运动鞋，身体靠近墙面右侧。,人生成质量,30
+GQ00035,"A long-haired woman sits by the café window, facing outward with a calm expression, wearing a red sweater and scarf, posture upright yet relaxed.",一位长发女子坐在咖啡馆窗边，面部朝向外面，露出平静的神情，身穿红色毛衣和围巾，身体姿态直立且放松。,人生成质量,24
+GQ00036,"A runner sprints along a park path in the early morning, face glistening with sweat, with a determined expression, wearing tight sportswear and running shoes, body leaning forward in motion.",一名跑步者在清晨的公园小道上冲刺，面部泛着汗水，神情坚定，穿着紧身运动服和跑鞋，身体前倾向前冲。,人生成质量,30
+GQ00037,"A mother pushes a stroller at the mall entrance, smiling down at her child, body slightly leaning forward, wearing a light coat and jeans, stopped beside the automatic door.",一位母亲在商场入口推着婴儿车，低头微笑看着孩子，身体微微前倾，穿着浅色外套和牛仔裤，停在自动门旁。,人生成质量,29
+GQ00038,"A student reaches for a book beside the library shelf, with a serious facial expression, wearing a dark blue school uniform dress, body slightly tilted to the left.",一名学生在图书馆书架边伸手取书，面部带着认真神情，穿着深蓝色校服裙，身体微微向左倾斜。,人生成质量,28
+GQ00039,"A man types at his office desk, with a slight frown, wearing a white shirt and black blazer, body leaning toward the computer screen.",一位男子在办公室的书桌前双手打字，眉头微微收紧，穿着白衬衫和黑色西装外套，身体向电脑屏幕靠近。,人生成质量,24
+GQ00040,"A dancer balances on one leg at the center of the stage, arms gracefully extended, with a confident smile, wearing a black fitted leotard, body slightly rotated.",一名舞者在舞台中央单腿平衡，双臂优雅展开，面带自信的笑容，穿着黑色紧身舞衣，身体微微旋转。,人生成质量,27
+GQ00041,"A young man stands on seaside rocks gazing into the distance, his face lit by sunlight, wearing a white T-shirt and shorts, with a relaxed stance and hands in pockets.",一位青年站在海边礁石上眺望远方，脸部被阳光照亮，穿着白色T恤和短裤，身体姿态放松地双手插袋。,人生成质量,30
+GQ00042,"A female teacher points to the whiteboard at the podium, with a friendly smile, wearing a light shirt and black skirt, body slightly angled toward the students.",一位女教师在讲台前指向白板，面露亲切笑容，穿着浅色衬衫和黑色裙子，身体姿态略向学生一侧。,人生成质量,27
+GQ00043,"A delivery man hands a package at the doorway, with a polite smile, wearing an orange uniform and cap, body standing on the doorstep.",一名快递员在门口递送包裹，面部露出礼貌的微笑，穿着橙色制服和帽子，身体站立在门阶上。,人生成质量,24
+GQ00044,"A young woman takes photos with her phone at a concert, face illuminated by stage lights, wearing a black dress, body extending upward.",一位年轻女子在音乐会现场举着手机拍照，面部被灯光映亮，穿着黑色连衣裙，身体姿态向上伸展。,人生成质量,23
+GQ00045,"An elderly man stands by the bus stop sign, with a patient expression, wearing a brown coat and gloves, body in a steady waiting posture.",一位老人站在公交车站牌旁，脸上带着耐心的表情，穿着棕色外套和手套，身体姿态稳定等待。,人生成质量,25
+GQ00046,"A man lifts dumbbells in the gym, face tense with effort, wearing a sleeveless sports top and shorts, body in a stable standing posture.",一名男子在健身房举哑铃，面部因用力而紧绷，穿着无袖运动背心和短裤，身体姿态稳固站立。,人生成质量,24
+GQ00047,"A nurse adjusts a patient’s pillow in the hospital ward, with a gentle smiling face, wearing a light blue nurse’s uniform, body leaning closer to the bed.",一位女护士在医院病房调整病人枕头，面容柔和带笑，穿着浅蓝色护士制服，身体微微前倾靠近床铺。,人生成质量,27
+GQ00048,"A boy ties his shoelaces on the playground, face partially hidden as he looks down, wearing a printed T-shirt and shorts, body crouched beside the track.",一名男孩在操场上系鞋带，面部低垂被遮住部分，穿着印花T恤和短裤，身体姿态蹲在跑道边。,人生成质量,26
+GQ00049,"A woman reaches out to clink glasses with a friend at a restaurant table, smiling, wearing a white shirt and light-colored skirt, body slightly leaning to the right.",一位女朋友在餐厅的桌旁伸出手与朋友碰杯，面部微笑，穿着白衬衫和淡色裙子，身体姿态略向右倾。,人生成质量,28
+GQ00050,The red ball is on the blue cube.,红色的球在蓝色的方块上。,"物体,位置",8
+GQ00051,The red ball is under the blue cube.,红色的球在蓝色的方块下。,"物体,位置",8
+GQ00052,The red ball is in front of the blue cube.,红色的球在蓝色的方块前面。,"物体,位置",10
+GQ00053,The red ball is behind the blue cube.,红色的球在蓝色的方块后面。,"物体,位置",8
+GQ00054,The red ball is to the left of the blue cube.,红色的球在蓝色的方块左边。,"物体,位置",11
+GQ00055,The red ball is to the right of the blue cube.,红色的球在蓝色的方块右边。,"物体,位置",11
+GQ00056,The red ball is directly below the blue cube.,红色的球在蓝色的方块正下方。,"物体,位置",9
+GQ00057,The red ball is at the front left of the blue cube.,红色的球在蓝色的方块左前方。,"物体,位置",12
+GQ00058,The red ball is at the front right of the blue cube.,红色的球在蓝色的方块右前方。,"物体,位置",12
+GQ00059,The red ball is at the back left of the blue cube.,红色的球在蓝色的方块左后方。,"物体,位置",12
+GQ00060,The red ball is at the back right of the blue cube.,红色的球在蓝色的方块右后方。,"物体,位置",12
+GQ00061,The red ball is in the center of the frame.,红色的球在画面中央。,"物体,位置",10
+GQ00062,The red ball is at the top of the frame.,红色的球在画面顶部。,"物体,位置",10
+GQ00063,The red ball is at the bottom of the frame.,红色的球在画面底部。,"物体,位置",10
+GQ00064,The red ball is on the left side of the frame.,红色的球在画面左侧。,"物体,位置",11
+GQ00065,The red ball is on the right side of the frame.,红色的球在画面右侧。,"物体,位置",11
+GQ00066,The red ball is in the top left corner of the frame.,红色的球在画面左上角。,"物体,位置",12
+GQ00067,The red ball is in the top right corner of the frame.,红色的球在画面右上角。,"物体,位置",12
+GQ00068,The red ball is in the bottom left corner of the frame.,红色的球在画面左下角。,"物体,位置",12
+GQ00069,The red ball is in the bottom right corner of the frame.,红色的球在画面右下角。,"物体,位置",12
+GQ00070,Morning sunlight casting striped shadows through curtains,清晨阳光透过窗帘形成条状影子,光影,7
+GQ00071,Sunlight through tree leaves creating dappled patterns on the ground,树叶间的阳光在地面留下斑驳光斑,光影,10
+GQ00072,Evening sunlight stretching building shadows,傍晚阳光将楼房影子拉长,光影,5
+GQ00073,Clouds covering the sun making shadows fade,云层遮住太阳影子变淡,光影,7
+GQ00074,Clouds dispersing and sunlight shining through again,乌云散开阳光重新洒下,光影,7
+GQ00075,Shadows shifting as wind moves tree leaves,阴影因风吹树叶摆动而变化,光影,7
+GQ00076,Rainbow appearing as sunlight hits raindrops,彩虹在阳光照射雨滴时出现,光影,6
+GQ00077,Sunlight reflecting on wet ground after rain,雨后阳光反射在湿润的地面上,光影,7
+GQ00078,Desk lamp illuminating book pages with a soft circular glow,台灯照亮书页形成柔和圆形光区,光影,10
+GQ00079,Chandelier light shining on the dining table,吊灯光线照在餐桌上,光影,7
+GQ00080,Flashlight creating a sharp beam on the wall,手电筒在墙上形成清晰光束,光影,8
+GQ00081,Neon lights reflecting colors on a wet road,霓虹灯在潮湿路面形成色彩映射,光影,8
+GQ00082,Mirror reflecting sunlight onto the ceiling,镜子反射阳光照到天花板,光影,6
+GQ00083,Reflected image of a pedestrian on water rippling in the wind,水面反射行人影像被风吹散,光影,11
+GQ00084,Glass bottle focusing sunlight into a bright spot on a table,玻璃瓶聚焦阳光在桌面形成亮点,光影,11
+GQ00085,Car windshield reflecting distant scenery,汽车挡风玻璃反射远处景物,光影,5
+GQ00086,Clock shadow swinging with its movement,时钟晃动时影子也跟着摆动,光影,6
+GQ00087,Tree shadows shifting slowly on asphalt road,柏油路上树影随阳光缓慢移动,光影,7
+GQ00088,Blinds' shadows moving slowly on the floor,百叶窗影子在地面缓缓移动,光影,7
+GQ00089,Moonlight moving across the sheets as the moon rises,月光在床单上移动随着月升,光影,9
+GQ00090,A person walking.,一个人走路。,"动作,人生成质量",3
+GQ00091,A person running.,一个人跑步。,"动作,人生成质量",3
+GQ00092,A person jumping.,一个人跳跃。,"动作,人生成质量",3
+GQ00093,A person squatting.,一个人蹲下。,"动作,人生成质量",3
+GQ00094,A person waving.,一个人挥手。,"动作,人生成质量",3
+GQ00095,A person reaching out.,一个人伸手。,"动作,人生成质量",4
+GQ00096,A person pointing.,一个人指向。,"动作,人生成质量",3
+GQ00097,A person clapping hands.,一个人鼓掌。,"动作,人生成质量",4
+GQ00098,A person drinking water.,一个人喝水。,"动作,人生成质量",4
+GQ00099,A person eating.,一个人吃饭。,"动作,人生成质量",3
+GQ00100,A person holding a book.,一个人拿书。,"动作,人生成质量",5
+GQ00101,A person making a phone call.,一个人打电话。,"动作,人生成质量",6
+GQ00102,A person smiling.,一个人微笑。,"动作,人生成质量",3
+GQ00103,A person laughing.,一个人大笑。,"动作,人生成质量",3
+GQ00104,A person frowning.,一个人皱眉。,"动作,人生成质量",3
+GQ00105,A person speaking with mouth open.,一个人张嘴说话。,"动作,人生成质量",6
+GQ00106,A person kicking a ball.,一个人踢球。,"动作,人生成质量",5
+GQ00107,A person throwing.,一个人投掷。,"动作,人生成质量",3
+GQ00108,A person catching a ball.,一个人接球。,"动作,人生成质量",5
+GQ00109,A person rowing a boat.,一个人划船。,"动作,人生成质量",5
+GQ00110,A sprinter runs from left to right on the track.,在跑道上，一名短跑运动员从左向右奔跑。,动态稳定性,10
+GQ00111,A bus drives forward on the city street.,在城市街道上，一辆公交车向前行驶。,动态稳定性,8
+GQ00112,A small boat drifts slowly with the river current.,在河面上，一艘小船沿着水流缓慢漂动。,动态稳定性,9
+GQ00113,A child kicks a soccer ball forward on the park lawn.,在公园草地上，一个孩子向前踢足球。,动态稳定性,11
+GQ00114,A kite rises and flutters in the wind by the seaside.,在海边，一只风筝迎风升起并飘动。,动态稳定性,11
+GQ00115,A crane slowly lifts a steel beam at the construction site.,在工地上，吊车缓慢抬起钢梁。,动态稳定性,11
+GQ00116,A train moves at a steady speed across the bridge.,在桥面上，一辆火车匀速驶过。,动态稳定性,10
+GQ00117,A dancer spins on the stage.,在舞台上，一名舞者旋转舞动。,动态稳定性,6
+GQ00118,Water flows continuously from the faucet in the kitchen.,在厨房里，水从水龙头持续流出。,动态稳定性,9
+GQ00119,An airplane slowly takes off on the airport runway.,在机场跑道上，一架飞机缓缓起飞。,动态稳定性,9
+GQ00120,Living room,客厅,场景,2
+GQ00121,Kitchen,厨房,场景,1
+GQ00122,Bedroom,卧室,场景,1
+GQ00123,Bathroom,浴室,场景,1
+GQ00124,Dining room,餐厅,场景,2
+GQ00125,Study room,书房,场景,2
+GQ00126,Home balcony,家庭阳台,场景,2
+GQ00127,Storage room,杂物间,场景,2
+GQ00128,Basement,地下室,场景,1
+GQ00129,Laundry room,洗衣房,场景,2
+GQ00130,Beach,海滩,场景,1
+GQ00131,Forest,森林,场景,1
+GQ00132,Lakeside,湖边,场景,1
+GQ00133,Mountaintop,山顶,场景,1
+GQ00134,Meadow,草地,场景,1
+GQ00135,Riverside,河岸,场景,1
+GQ00136,Garden,花园,场景,1
+GQ00137,Farm,农场,场景,1
+GQ00138,Desert,沙漠,场景,1
+GQ00139,Snowfield,雪地,场景,1
+GQ00140,"On a clear and cloudless day, the parking lot is full of cars.",晴朗无云时，停车场停满车辆。,"场景,天气",13
+GQ00141,"With an azure blue sky, passengers board at the airport.",碧空如洗时，飞机场有乘客登机。,"场景,天气",10
+GQ00142,"Under a boundless clear sky, workers load goods at the pier.",万里无云时，码头工人正搬运货物。,"场景,天气",11
+GQ00143,"On a bright and sunny day, vehicles speed along the highway.",阳光明媚时，高速公路车辆飞驰。,"场景,天气",11
+GQ00144,"When it is partly cloudy, passengers queue to enter the subway station.",部分多云时，地铁站乘客排队进站。,"场景,天气",12
+GQ00145,"With scattered fluffy clouds, pedestrians walk on the city bridge.",白云朵朵时，城市桥梁上有行人散步。,"场景,天气",10
+GQ00146,"On an overcast day, cars wait for refueling at the gas station.",阴天时，加油站有车辆等待加油。,"场景,天气",12
+GQ00147,"In drizzly rain, pedestrians cross the intersection with umbrellas.",细雨蒙蒙时，十字路口的行人撑伞过街。,"场景,天气",9
+GQ00148,"During light rain, someone returns a bike at the public bike station.",小雨时，公共自行车区有人归还单车。,"场景,天气",12
+GQ00149,"In moderate rain, passengers wait at the taxi stand.",中雨时，出租车候车点乘客等待上车。,"场景,天气",9
+GQ00150,"At dawn breaking, someone jogs in the park.",黎明破晓时，公园里有人慢跑。,"场景,时间",8
+GQ00151,"In the early morning with mist, the street has few vehicles.",清晨薄雾中，街道上车辆稀少。,"场景,时间",11
+GQ00152,"At high noon under the blazing sun, pedestrians hurry along the sidewalk.",正午阳光下，人行道上行人匆匆。,"场景,时间",12
+GQ00153,"In the lazy afternoon, a couple walks in the plaza.",午后慵懒时光，广场上一对情侣散步。,"场景,时间",10
+GQ00154,"During the golden hour, the market is bustling.",黄金时刻，市场里人来人往。,"场景,时间",8
+GQ00155,"In the blue hour, lights flicker outside the shopping mall.",蓝色时刻，购物中心外灯光闪烁。,"场景,时间",10
+GQ00156,"At the moment when the city lights turn on, customers chat in the café.",华灯初上时，咖啡馆里顾客交谈。,"场景,时间",14
+GQ00157,"In the deep night, the supermarket cashier arranges the shelves.",深夜，超市收银员正在整理货架。,"场景,时间",10
+GQ00158,"At midnight, passengers wait in the train station lounge.",午夜，火车站候车室有旅客等车。,"场景,时间",9
+GQ00159,"At dusk before a storm, people queue at the bus stop.",暴雨将至的黄昏，公交车站有人排队等车。,"场景,时间",11
+GQ00160,"In the stadium, slow motion shot of a runner with a tracking shot.",在体育场，慢动作拍摄跑步的运动员，并跟镜。,"场景,速度,镜头移动",13
+GQ00161,"In the amusement park, fast motion shot of a spinning Ferris wheel with a zoom out.",在游乐园，快动作拍摄旋转的摩天轮，并镜头拉远。,"场景,速度,镜头移动",16
+GQ00162,"At the swimming pool, time-lapse shot of water ripples with a static camera.",在游泳池，延时摄影拍摄水面波纹，镜头保持不动。,"场景,速度,镜头移动",13
+GQ00163,"In the gym, real-time shot of a man lifting weights with a zoom in.",在健身房，实时拍摄举重的男子，并镜头拉近。,"场景,速度,镜头移动",14
+GQ00164,"In the cinema, slow motion shot of a viewer entering the theater with a pan left.",在电影院，慢动作拍摄走进影厅的观众，并向左摇镜。,"场景,速度,镜头移动",16
+GQ00165,"In the concert hall, fast motion shot of stage lights changing with a truck right.",在音乐厅，快动作拍摄舞台灯光变化，并向右横移。,"场景,速度,镜头移动",15
+GQ00166,"In the library, time-lapse shot of a student flipping pages with a fixed camera.",在图书馆，延时摄影拍摄翻阅书籍的学生，镜头保持不动。,"场景,速度,镜头移动",14
+GQ00167,"In the museum, reverse playback shot of a visitor picking up an exhibit with a static camera.",在博物馆，倒放拍摄拿起展品的游客，镜头保持不动。,"场景,速度,镜头移动",17
+GQ00168,"In the art gallery, stop motion shot of a painting on the wall with a fixed camera.",在美术馆，定格动画拍摄墙上的画作，镜头保持不动。,"场景,速度,镜头移动",17
+GQ00169,"In the playground, slow motion shot of a child on a swing with a Hitchcock zoom.",在儿童游乐区，慢动作拍摄荡秋千的孩子，并推拉变焦。,"场景,速度,镜头移动",16
+GQ00170,"In the tropical rainforest, fast motion shot of leaves swaying in the wind with a pan right.",在热带雨林，快动作拍摄随风摇动的树叶，并向右摇镜。,"场景,速度,镜头移动",17
+GQ00171,"In the Sahara Desert, time-lapse shot of dune shadows changing with a fixed camera.",在撒哈拉沙漠，延时摄影拍摄沙丘阴影变化，镜头保持不动。,"场景,速度,镜头移动",14
+GQ00172,"On the Arctic glacier, reverse playback shot of an ice block falling into the water with a static camera.",在北极冰川，倒放拍摄落入水中的冰块，镜头保持不动。,"场景,速度,镜头移动",19
+GQ00173,"In the alpine meadow, stop motion shot of wildflowers blooming with a fixed camera.",在高山草甸，定格动画拍摄野花盛开，镜头保持不动。,"场景,速度,镜头移动",14
+GQ00174,"On the Amazon River, slow motion shot of a fisherman rowing with a pan left.",在亚马孙河，慢动作拍摄划船的渔夫，并向左摇镜。,"场景,速度,镜头移动",15
+GQ00175,"In the Norwegian fjord, fast motion shot of a cruise ship passing with a zoom in.",在挪威峡湾，快动作拍摄驶过的游轮，并镜头拉近。,"场景,速度,镜头移动",16
+GQ00176,"In the purple lavender field, time-lapse shot of flowers swaying with a fixed camera.",在紫色薰衣草田，延时摄影拍摄花海随风摇动，镜头保持不动。,"场景,速度,镜头移动",14
+GQ00177,"In the Venice canals, slow motion shot of a gondolier rowing with a tracking shot.",在威尼斯运河，慢动作拍摄划船的船夫，并跟镜。,"场景,速度,镜头移动",15
+GQ00178,"At New York Times Square, fast motion shot of crowds walking with a truck right.",在纽约时代广场，快动作拍摄行走的人群，并向右横移。,"场景,速度,镜头移动",15
+GQ00179,"At the Beijing Forbidden City, stop motion shot of palace details with a fixed camera.",在北京紫禁城，定格动画拍摄宫殿细部，镜头保持不动。,"场景,速度,镜头移动",15
+GQ00180,Clear and cloudless,晴朗无云,天气,3
+GQ00181,Azure blue sky,碧空如洗,天气,3
+GQ00182,Boundless clear sky,万里无云,天气,3
+GQ00183,Bright and sunny,阳光明媚,天气,3
+GQ00184,Partly cloudy,部分多云,天气,2
+GQ00185,Scattered fluffy clouds,白云朵朵,天气,3
+GQ00186,Overcast,阴天,天气,1
+GQ00187,Drizzly rain,细雨蒙蒙,天气,2
+GQ00188,Light rain,小雨,天气,2
+GQ00189,Moderate rain,中雨,天气,2
+GQ00190,Heavy downpour,大雨倾盆,天气,2
+GQ00191,Drizzling,毛毛雨,天气,1
+GQ00192,Thunderstorm,雷阵雨,天气,1
+GQ00193,Sun shower,太阳雨,天气,2
+GQ00194,Right after the rain,雨后初晴,天气,4
+GQ00195,There is a red box on the table.,桌子上有一个红色的盒子。,"属性,物体,位置",8
+GQ00196,There is a blue box on the table.,桌子上有一个蓝色的盒子。,"属性,物体,位置",8
+GQ00197,There is a single box on the table.,桌子上有一个单个的盒子。,"属性,物体,位置",8
+GQ00198,There is a pair of boxes on the table.,桌子上有一对盒子。,"属性,物体,位置",9
+GQ00199,There is a wooden box on the table.,桌子上有一个木制的盒子。,"属性,物体,位置",8
+GQ00200,There is a round box on the table.,桌子上有一个圆形的盒子。,"属性,物体,位置",8
+GQ00201,There is a square box on the table.,桌子上有一个正方形的盒子。,"属性,物体,位置",8
+GQ00202,There is an old box on the table.,桌子上有一个旧的盒子。,"属性,物体,位置",8
+GQ00203,There is a box with a striped pattern on the table.,桌子上有一个带条纹花纹的盒子。,"属性,物体,位置",11
+GQ00204,There is a box with a checkered pattern on the table.,桌子上有一个带格子花纹的盒子。,"属性,物体,位置",11
+GQ00205,flying elephant,会飞的大象,幻想,2
+GQ00206,person riding a dragon,骑龙的人,幻想,4
+GQ00207,unicorn running in the sky,独角兽在天空奔跑,幻想,5
+GQ00208,human casting a spell,人类施展魔法,幻想,4
+GQ00209,flying castle,会飞的城堡,幻想,2
+GQ00210,floating skyscraper,悬浮的摩天大楼,幻想,2
+GQ00211,giant spaceship above the city,巨型太空飞船在城市上空,幻想,5
+GQ00212,city floating in space,宇宙漂浮的城市,幻想,4
+GQ00213,ocean in the sky,海洋在天空中,幻想,4
+GQ00214,giant iceberg in the desert,沙漠中的巨型冰山,幻想,5
+GQ00215,human walking without touching the ground,人类不接触地面行走,幻想,6
+GQ00216,object passing through walls,物体穿过墙壁,幻想,4
+GQ00217,giant walking on city streets,巨人走在城市街道,幻想,5
+GQ00218,flying human baby,会飞的人类婴儿,幻想,3
+GQ00219,person with two heads,双头人,幻想,4
+GQ00220,animals in suits having a meeting,动物穿着西装开会,幻想,6
+GQ00221,dancing tree,会跳舞的树,幻想,2
+GQ00222,airplane flying underwater,飞机在水下飞行,幻想,3
+GQ00223,volcano erupting colorful balloons,火山喷出五彩气球,幻想,4
+GQ00224,winged wolf,有翅膀的狼,幻想,2
+GQ00225,"A woman dances in a red dress on the beach at dusk, standing at the center of the frame, sunny weather, slow motion, circular camera movement.",一名女子在傍晚的海滩上，站在画面中央，穿着红色长裙跳舞，晴天，慢动作，镜头环绕拍摄。,整体,26
+GQ00226,"A man kicks a blue soccer ball in the city square in the afternoon, positioned at the bottom left of the frame, breezy weather, normal speed, tracking shot.",一个男子下午在城市广场踢蓝色足球，位于画面左下角，微风天气，正常速度，镜头平移拍摄。,整体,28
+GQ00227,"A woman plays the violin on a mountain top in the early morning, appearing in the distant background of the frame, misty weather, time-lapse, push-in camera shot.",一名女子清晨在山顶拉小提琴，出现在远景画面中，薄雾天气，延时摄影，镜头推近拍摄。,整体,27
+GQ00228,"A child blows bubbles in the garden in the afternoon, near the right side of the frame, sunny weather, slow motion, follow-cam shot.",一个孩子在午后的花园里吹泡泡，靠近画面右侧，晴天，慢动作，镜头跟随拍摄。,整体,23
+GQ00229,"An elderly man walks with a brown cow on a country road at dusk, positioned at the left of the frame, cloudy weather, normal speed, tracking shot.",一位老人黄昏时在乡间小路牵一头棕色牛，位于画面左侧，阴天，正常速度，镜头平移拍摄。,整体,27
+GQ00230,"A man casts a fishing net by the riverside in the morning, standing at the bottom of the frame, sunny weather, slow motion, overhead camera shot.",一个男子早晨在河边抛鱼网，站在画面下方，晴天，慢动作，镜头俯拍。,整体,26
+GQ00231,"A woman takes photos on a city overpass at night, positioned slightly right of center in the frame, under streetlights, normal speed, circular camera movement.",一名女子在夜晚的城市天桥上拍照，位于画面中央偏右，路灯照明，正常速度，镜头环绕拍摄。,整体,25
+GQ00232,"A man skis downhill at high speed in a snowy ski resort, appearing at the lower part of the frame, time-lapse, follow-cam shot.",一个男子在雪天的滑雪场高速滑雪，出现在画面下方，延时摄影，镜头跟随拍摄。,整体,23
+GQ00233,"A woman plants rice seedlings in a paddy field in the early morning, positioned at the top right of the frame, misty weather, slow motion, tracking shot.",一名女子在清晨的稻田插秧，位于画面右上角，薄雾天气，慢动作，镜头平移拍摄。,整体,27
+GQ00234,"A man carries wooden crates at the harbor in the evening, standing in the center of the frame, cloudy weather, normal speed, push-in camera shot.",一个男子傍晚在港口搬运木箱，站在画面中央，阴天，正常速度，镜头推近拍摄。,整体,25
+GQ00235,"A woman rides a green mountain bike on a forest trail in the afternoon, positioned at the left of the frame, sunny weather, slow motion, follow-cam shot.",一名女子下午在森林小径骑绿色山地自行车，位于画面左侧，晴天，慢动作，镜头跟随拍摄。,整体,27
+GQ00236,"A man walks carrying a silver tray in a dimly lit restaurant at night, standing in the center of the frame, normal speed, push-in camera shot.",一个男子夜晚在灯光昏暗的餐厅端着银色托盘行走，站在画面中央，正常速度，镜头推近拍摄。,整体,26
+GQ00237,"A woman skips stones by the lake in the early morning, near the right side of the frame, sunny weather, slow motion, tracking shot.",一名女子清晨在湖边打水漂，靠近画面右侧，晴天，慢动作，镜头平移拍摄。,整体,24
+GQ00238,"A child swings in a playground in the afternoon, standing at the center of the frame, breezy weather, time-lapse, circular camera movement.",一个孩子午后在游乐场荡秋千，站在画面中央，微风天气，延时摄影，镜头环绕拍摄。,整体,22
+GQ00239,"An elderly man harvests wheat in a farmland at dusk, appearing in the distant background of the frame, cloudy weather, normal speed, tracking shot.",一位老人傍晚在农田收割麦穗，出现在远景画面中，阴天，正常速度，镜头平移拍摄。,整体,24
+GQ00240,"A man installs an antenna on a city rooftop in the early morning, positioned at the bottom left of the frame, misty weather, slow motion, follow-cam shot.",一个男子清晨在城市屋顶安装天线，位于画面左下角，薄雾天气，慢动作，镜头跟随拍摄。,整体,27
+GQ00241,"A woman dances street style beside a fountain at night, near the right side of the frame, clear sky, normal speed, circular camera movement.",一名女子夜晚在喷泉边跳街舞，靠近画面右侧，晴天，正常速度，镜头环绕拍摄。,整体,24
+GQ00242,"A man drives a yellow towing vehicle on the airport runway in the afternoon, standing in the center of the frame, bright sunlight, slow motion, tracking shot.",一个男子下午在机场跑道驾驶黄色拖车，站在画面中央，阳光强烈，慢动作，镜头平移拍摄。,整体,27
+GQ00243,"A woman arranges bouquets at the flower shop in the morning, positioned at the top left of the frame, sunny weather, normal speed, push-in camera shot.",一名女子早晨在花店整理花束，位于画面左上角，晴天，正常速度，镜头推近拍摄。,整体,26
+GQ00244,"A child sets paper boats afloat on the riverside at dusk, near the center of the frame, cloudy weather, time-lapse, follow-cam shot.",一个孩子黄昏在河岸放纸船，靠近画面中央，阴天，延时摄影，镜头跟随拍摄。,整体,22
+GQ00245,"A woman lays a picnic cloth in the valley in the afternoon, positioned at the right of the frame, sunny weather, slow motion, tracking shot.",一名女子下午在山谷铺野餐布，位于画面右侧，晴天，慢动作，镜头平移拍摄。,整体,25
+GQ00246,"A man ties mooring ropes at the harbor at night, standing in the center of the frame, rolling clouds, normal speed, push-in camera shot.",一个男子夜晚在港口系泊绳索，站在画面中央，云层翻滚，正常速度，镜头推近拍摄。,整体,24
+GQ00247,"A woman walks with a camel in the desert in the early morning, positioned at the left of the frame, sunny weather, slow motion, circular camera movement.",一名女子清晨在沙漠里牵骆驼行走，位于画面左侧，晴天，慢动作，镜头环绕拍摄。,整体,27
+GQ00248,"A child performs flip tricks at a skate park in the afternoon, standing at the center of the frame, sunny weather, normal speed, follow-cam shot.",一个孩子午后在滑板场做翻转动作，站在画面中央，晴天，正常速度，镜头跟随拍摄。,整体,25
+GQ00249,"An elderly man fishes by the seaside at dusk, appearing at the bottom right of the frame, sunny weather, slow motion, overhead camera shot.",一位老人傍晚在海边钓鱼，出现在画面右下角，晴天，慢动作，镜头俯拍。,整体,24
+GQ00250,"A man carries bricks at a construction site in the morning, positioned at the top left of the frame, breezy weather, normal speed, tracking shot.",一个男子早晨在工地搬砖，位于画面左上角，微风天气，正常速度，镜头平移拍摄。,整体,25
+GQ00251,"A woman rides an electric scooter on a city street at night, near the center of the frame, under streetlights, slow motion, circular camera movement.",一名女子夜晚在城市街道骑电动车，靠近画面中央，路灯照亮，慢动作，镜头环绕拍摄。,整体,25
+GQ00252,"A man walks a white husky along a snow mountain trail in the afternoon, positioned at the left of the frame, snowy weather, time-lapse, follow-cam shot.",一个男子下午在雪山小路牵一只白色哈士奇，位于画面左侧，雪天，延时摄影，镜头跟随拍摄。,整体,26
+GQ00253,"A woman holds a warm cup of tea beside a haystack in the early morning, appearing at the top right of the frame, misty weather, normal speed, push-in camera shot.",一名女子清晨在稻草堆旁捧温热茶杯，出现在画面右上角，薄雾天气，正常速度，镜头推近拍摄。,整体,30
+GQ00254,"A child practices skating at an ice rink at night, near the left side of the frame, sunny weather, slow motion, tracking shot.",一个孩子夜晚在冰场练习滑冰，靠近画面左侧，晴天，慢动作，镜头平移拍摄。,整体,23
+GQ00255,"A woman watches the sunset on a bridge at dusk, positioned at the bottom right of the frame, sunny weather, time-lapse, circular camera movement.",一名女子傍晚在桥上看落日，位于画面右下角，晴天，延时摄影，镜头环绕拍摄。,整体,24
+GQ00256,"A man flies a kite in a field in the afternoon, standing in the center of the frame, breezy weather, normal speed, follow-cam shot.",一个男子下午在田野放风筝，站在画面中央，微风天气，正常速度，镜头跟随拍摄。,整体,24
+GQ00257,"An elderly man chops wood in front of a wooden cabin in the early morning, positioned at the left of the frame, sunny weather, slow motion, push-in camera shot.",一位老人清晨在木屋前劈柴，出现在画面左侧，晴天，慢动作，镜头推近拍摄。,整体,29
+GQ00258,"A woman plays guitar by a beach bonfire at night, positioned slightly right of center in the frame, clear sky, normal speed, tracking shot.",一名女子夜晚在海滩篝火旁弹吉他，位于画面中央偏右，晴天，正常速度，镜头平移拍摄。,整体,24
+GQ00259,"A child plays a harmonica in the city park in the afternoon, standing at the center of the frame, cloudy weather, slow motion, circular camera movement.",一个孩子下午在城市公园吹口琴，站在画面中央，阴天，慢动作，镜头环绕拍摄。,整体,26
+GQ00260,"A man paddles a canoe in the middle of a river in the early morning, appearing at the bottom of the frame, misty weather, time-lapse, overhead camera shot.",一个男子清晨在河中央划独木舟，出现在画面下方，薄雾天气，延时摄影，镜头俯拍。,整体,28
+GQ00261,"A woman harvests purple grapes in a vineyard at dusk, positioned at the left of the frame, sunny weather, normal speed, tracking shot.",一名女子傍晚在葡萄园采收紫色葡萄，位于画面左侧，晴天，正常速度，镜头平移拍摄。,整体,23
+GQ00262,"A man dives into the swimming pool in the afternoon, standing in the center of the frame, breezy weather, slow motion, follow-cam shot.",一个男子午后在游泳池跳水，站在画面中央，微风天气，慢动作，镜头跟随拍摄。,整体,23
+GQ00263,"A child runs along a city corridor at night, positioned at the bottom right of the frame, under streetlights, normal speed, push-in camera shot.",一个孩子夜晚在城市长廊跑步，位于画面右下角，路灯照亮，正常速度，镜头推近拍摄。,整体,24
+GQ00264,"An elderly man repairs fishing nets at the harbor in the early morning, appearing at the top left of the frame, misty weather, slow motion, tracking shot.",一位老人清晨在港口修理渔网，出现在画面左上角，薄雾天气，慢动作，镜头平移拍摄。,整体,27
+GQ00265,"A man washes his hands by a forest stream at dusk, positioned at the center of the frame, cloudy weather, normal speed, follow-cam shot.",一个男子黄昏在森林溪边洗手，位于画面中央，阴天，正常速度，镜头跟随拍摄。,整体,24
+GQ00266,"A woman feeds a brown horse in a pasture in the morning, appearing at the right of the frame, sunny weather, slow motion, tracking shot.",一名女子早晨在牧场给棕色马喂草，出现在画面右侧，晴天，慢动作，镜头平移拍摄。,整体,25
+GQ00267,"A child rolls a snowball down a hillside at dusk, near the bottom left of the frame, snowy weather, normal speed, circular camera movement.",一个孩子傍晚在山坡上滚雪球，靠近画面左下角，雪天，正常速度，镜头环绕拍摄。,整体,24
+GQ00268,"An elderly man plays the violin under a bridge at night, standing in the center of the frame, under streetlights, slow motion, push-in camera shot.",一位老人夜晚在桥下拉小提琴，站在画面中央，路灯照明，慢动作，镜头推近拍摄。,整体,25
+GQ00269,"A man rides a motorcycle along the edge of a paddy field in the early morning, appearing at the left of the frame, misty weather, normal speed, follow-cam shot.",一个男子清晨在稻田边骑摩托车，出现在画面左侧，薄雾天气，正常速度，镜头跟随拍摄。,整体,29
+GQ00270,"A woman blows bubbles in the city square in the afternoon, positioned at the center of the frame, sunny weather, time-lapse, tracking shot.",一名女子下午在城市广场吹泡泡，位于画面中央，晴天，延时摄影，镜头平移拍摄。,整体,23
+GQ00271,"A child sets off fireworks by the river at night, near the right side of the frame, clear sky, slow motion, circular camera movement.",一个孩子夜晚在河边放烟花，靠近画面右侧，晴天，慢动作，镜头环绕拍摄。,整体,24
+GQ00272,"An elderly man repairs a wooden bridge in the valley at dusk, positioned at the center of the frame, cloudy weather, normal speed, follow-cam shot.",一位老人黄昏在山谷修理木桥，位于画面中央，阴天，正常速度，镜头跟随拍摄。,整体,25
+GQ00273,"A man sweeps fallen leaves at the shop entrance in the morning, appearing at the bottom left of the frame, sunny weather, slow motion, push-in camera shot.",一个男子早晨在商店门口扫落叶，出现在画面左下角，晴天，慢动作，镜头推近拍摄。,整体,27
+GQ00274,"A woman takes photos beside a lighthouse at night, standing slightly right of center in the frame, sunny weather, normal speed, tracking shot.",一名女子夜晚在灯塔旁拍照，站在画面中央偏右，晴天，正常速度，镜头平移拍摄。,整体,23
+GQ00275,"At dawn breaking, a person stands on the mountaintop gazing into the distance.",黎明破晓时，一个人站在山顶远望。,"时间,人生成质量,场景,动作",13
+GQ00276,"In the early morning with mist, a pedestrian walks slowly on the bridge.",清晨薄雾中，一名行人在桥上慢慢行走。,"时间,人生成质量,场景,动作",13
+GQ00277,"At high noon under the blazing sun, a man rests on a park bench.",正午阳光下，一位男子在公园长椅上休息。,"时间,人生成质量,场景,动作",14
+GQ00278,"In the lazy afternoon, a woman reads in the garden.",午后慵懒时光，一位女子在花园里读书。,"时间,人生成质量,场景,动作",10
+GQ00279,"During the golden hour, a couple walks side by side on the beach.",黄金时刻，一对情侣并肩走在沙滩上。,"时间,人生成质量,场景,动作",13
+GQ00280,"In the blue hour, a photographer takes pictures in the plaza.",蓝色时刻，一名摄影师在广场上拍照。,"时间,人生成质量,场景,动作",11
+GQ00281,"At the moment when the city lights turn on, children play by the street.",华灯初上时，孩子们在街边玩耍。,"时间,人生成质量,场景,动作",14
+GQ00282,"In the deep night, a security guard patrols the office corridor.",深夜，一位保安巡逻在办公楼走廊里。,"时间,人生成质量,场景,动作",11
+GQ00283,"At midnight revelry, people dance on the terrace.",午夜狂欢时，人们在露台上跳舞。,"时间,人生成质量,场景,动作",8
+GQ00284,"At dusk before a storm, a delivery man pushes his bicycle forward.",暴雨将至的黄昏，一名快递员推着自行车前行。,"时间,人生成质量,场景,动作",12
+GQ00285,Wispy smoke curling upwards,轻烟袅袅,气态运动,4
+GQ00286,"Thick, billowing smoke",浓烟滚滚,气态运动,3
+GQ00287,Clouds and mist weaving around mountains,云雾缭绕,气态运动,6
+GQ00288,Steam rising from a hot lake,水汽蒸腾,气态运动,6
+GQ00289,Strong wind kicking up dust and sand,狂风卷起沙尘,气态运动,7
+GQ00290,The rotating vortex of a tornado,龙卷风的气旋,气态运动,6
+GQ00291,Volcanic eruption plume,火山喷发的烟柱,气态运动,3
+GQ00292,Breath condensing in cold air,呼吸在冷空气中形成的白气,气态运动,5
+GQ00293,Morning mist drifting away with the breeze,晨雾随风飘散,气态运动,7
+GQ00294,Marsh gas hovering in a forest,森林中的瘴气,气态运动,6
+GQ00295,Steam puffing from a locomotive,蒸汽机车喷出的蒸汽,气态运动,5
+GQ00296,High-pressure steam leaking from a pipe,管道泄漏的高压蒸汽,气态运动,6
+GQ00297,Smoke after blowing out a candle,吹灭蜡烛的烟雾,气态运动,6
+GQ00298,Grease smoke from a barbecue grill,烧烤架上的油烟,气态运动,6
+GQ00299,Perfume being sprayed from an atomizer,香水喷雾,气态运动,6
+GQ00300,Stage fog created by dry ice,干冰制造的舞台烟雾,气态运动,6
+GQ00301,Oxy-acetylene welding torch flame,氧气焊枪的火焰,气态运动,4
+GQ00302,Hot air venting from an air fryer,空气炸锅喷出的热风,气态运动,7
+GQ00303,Dust kicked up by a racing car,赛车扬起的尘土,气态运动,7
+GQ00304,The shockwave from an explosion,爆炸产生的冲击波气浪,气态运动,5
+GQ00305,Water pouring from kettle spout into a cup,水从水壶嘴流入杯中,流体运动,8
+GQ00306,Juice spilling from bottle mouth onto the table,果汁从瓶口流出溅到桌面,流体运动,8
+GQ00307,Coffee slowly dripping from a filter cup,咖啡从滤杯缓缓滴下,流体运动,7
+GQ00308,Milk poured into a bowl causing ripples,牛奶倾入碗中泛起涟漪,流体运动,7
+GQ00309,Tap water flowing into the sink,水龙头流出清水到水槽,流体运动,6
+GQ00310,Stream water flowing around rocks,小溪的水绕过石头流动,流体运动,5
+GQ00311,Wave washing onto the beach and retreating,海浪拍打沙滩回流入海,流体运动,7
+GQ00312,Rainwater streaming down a roof edge,雨水顺着屋檐流下,流体运动,6
+GQ00313,River current hitting shoreline grass,河水冲击岸边的草丛,流体运动,5
+GQ00314,Raindrops dripping from leaf tips,水滴从树叶尖滴落,流体运动,5
+GQ00315,Beer poured into glass forming foam,啤酒倒入杯中起大量泡沫,流体运动,6
+GQ00316,Juice in blender swirling and mixing,果汁机中液体旋转混合,流体运动,6
+GQ00317,Egg mixture spreading quickly in frying pan,蛋液倒入平底锅中迅速扩散,流体运动,7
+GQ00318,Chocolate sauce slowly pouring over cake,巧克力酱缓缓流在蛋糕上,流体运动,6
+GQ00319,Milk overflowing rim and running down the glass,牛奶溢出杯沿流下杯身,流体运动,8
+GQ00320,Food coloring diffusing into clean water,食用色素倒入清水中扩散,流体运动,6
+GQ00321,Ink spreading in a glass of water,墨水在水杯中蔓延,流体运动,7
+GQ00322,Seasoning powder evenly dispersing in soup,调味粉在汤中均匀扩散,流体运动,6
+GQ00323,Milk slowly settling and mixing in coffee,牛奶在咖啡中慢慢沉淀混合,流体运动,7
+GQ00324,Oil forming droplets floating on water surface,油和水混合形成油珠漂浮,流体运动,7
+GQ00325,Sunflower slowly turning toward the sun,向日葵慢慢转向太阳,渐变运动,6
+GQ00326,Cherry blossoms blooming from buds to full bloom,樱花从花苞到盛开,渐变运动,8
+GQ00327,Mung bean sprouts growing taller from seed,绿豆芽从发芽到长高,渐变运动,7
+GQ00328,Pine cone slowly opening its scales,松果逐渐张开鳞片,渐变运动,6
+GQ00329,Vine tendrils slowly stretching and wrapping,藤蔓卷须缓慢伸展缠绕,渐变运动,6
+GQ00330,Leaves changing from light green to deep green,树叶从嫩绿变成深绿,渐变运动,8
+GQ00331,Cactus sprouting a new arm,仙人掌长出新芽,渐变运动,5
+GQ00332,Orchid petals slowly unfolding,兰花花瓣缓缓展开,渐变运动,4
+GQ00333,Lawn gradually covered by green grass,草坪逐渐被青草覆盖,渐变运动,6
+GQ00334,Tomato ripening from green to red,番茄从青色变为红色,渐变运动,6
+GQ00335,Metal surface slowly rusting,铁器表面慢慢生锈,渐变运动,4
+GQ00336,Wooden door fading in color,木门颜色逐渐褪色,渐变运动,5
+GQ00337,Balloon slowly deflating,气球慢慢漏气变瘪,渐变运动,3
+GQ00338,Fruit in the fridge slowly drying and wrinkling,冰箱里的水果逐渐干皱,渐变运动,8
+GQ00339,Paint slowly peeling from the wall,油漆从墙面缓缓剥落,渐变运动,6
+GQ00340,Dough gradually rising during fermentation,面团慢慢发酵膨大,渐变运动,5
+GQ00341,Glass fogging and then clearing up,玻璃起雾又慢慢变清,渐变运动,6
+GQ00342,Paper gradually turning yellow in sunlight,纸张在阳光下逐渐泛黄,渐变运动,6
+GQ00343,Sculpture surface slowly getting dusty and dull,雕塑表面积灰变暗,渐变运动,7
+GQ00344,Wax statue surface slowly cracking,蜡像表面缓慢开裂,渐变运动,5
+GQ00345,Cup,杯子,物体,1
+GQ00346,Chair,椅子,物体,1
+GQ00347,Apple,苹果,物体,1
+GQ00348,Banana,香蕉,物体,1
+GQ00349,Cat,猫,物体,1
+GQ00350,Rabbit,兔子,物体,1
+GQ00351,Car,汽车,物体,1
+GQ00352,Train,火车,物体,1
+GQ00353,Computer,电脑,物体,1
+GQ00354,Pen,钢笔,物体,1
+GQ00355,A red plate is on the table.,红色的盘子在桌子上。,"物体,位置,属性",7
+GQ00356,A blue bowl is under the table.,蓝色的碗在桌子下。,"物体,位置,属性",7
+GQ00357,A wooden spoon is in front of the plate.,木制的勺子在盘子前面。,"物体,位置,属性",9
+GQ00358,A silver fork is behind the bowl.,银色的叉子在碗后面。,"物体,位置,属性",7
+GQ00359,A round bread is to the left of the basket.,圆形的面包在篮子左边。,"物体,位置,属性",10
+GQ00360,An oval egg is to the right of the basket.,椭圆形的鸡蛋在篮子右边。,"物体,位置,属性",10
+GQ00361,A bottle of milk is in the center of the frame.,一瓶牛奶在画面中央。,"物体,位置,属性",11
+GQ00362,A fresh tomato is at the top of the frame.,新鲜的番茄在画面顶部。,"物体,位置,属性",10
+GQ00363,A blue bird is at the bottom of the frame.,蓝色的鸟在画面底部。,"物体,位置,属性",10
+GQ00364,A golden fish is on the left side of the frame.,金色的鱼在画面左侧。,"物体,位置,属性",11
+GQ00365,A brown horse is on the right side of the frame.,棕色的马在画面右侧。,"物体,位置,属性",11
+GQ00366,A black and white cow is in the top left corner of the frame.,黑白花的牛在画面左上角。,"物体,位置,属性",14
+GQ00367,A yellow bus is in the top right corner of the frame.,黄色的公交车在画面右上角。,"物体,位置,属性",12
+GQ00368,A red bicycle is in the bottom left corner of the frame.,红色的自行车在画面左下角。,"物体,位置,属性",12
+GQ00369,A blue motorcycle is in the bottom right corner of the frame.,蓝色的摩托车在画面右下角。,"物体,位置,属性",12
+GQ00370,A white airplane is directly below the runway.,白色的飞机在跑道正下方。,"物体,位置,属性",8
+GQ00371,A black phone is at the front left of the table.,黑色的手机在桌子左前方。,"物体,位置,属性",11
+GQ00372,A silver camera is at the front right of the table.,银色的相机在桌子右前方。,"物体,位置,属性",11
+GQ00373,A gray printer is at the back left of the office.,灰色的打印机在办公室左后方。,"物体,位置,属性",11
+GQ00374,A black television is at the back right of the living room.,黑色的电视在客厅右后方。,"物体,位置,属性",12
+GQ00375,Soccer ball hitting the goalpost and bouncing back,足球撞到球门柱后反弹,碰撞运动,8
+GQ00376,Basketball hitting the ground and rebounding,篮球弹到地面再弹起,碰撞运动,6
+GQ00377,Ping pong ball hitting the table corner and changing direction,乒乓球撞到桌角偏转方向,碰撞运动,10
+GQ00378,Bowling ball hitting pins,保龄球撞击球瓶,碰撞运动,4
+GQ00379,Cue stick striking the cue ball,台球球杆击中母球,碰撞运动,6
+GQ00380,Plate hitting the table edge and shattering,厨房碗盘碰到桌沿碎裂,碰撞运动,7
+GQ00381,Mug falling and breaking upon hitting the floor,杯子掉落撞到地面破碎,碰撞运动,8
+GQ00382,Phone hitting the tile floor and bouncing slightly,手机掉在瓷砖上弹一下,碰撞运动,8
+GQ00383,Toy car hitting the wall and stopping,玩具车冲到墙上停下,碰撞运动,7
+GQ00384,Ball hitting window glass and bouncing away,小球撞到窗户玻璃弹开,碰撞运动,7
+GQ00385,Bicycle wheel hitting the curb,自行车车轮撞到路沿,碰撞运动,5
+GQ00386,Car hitting a speed bump and shaking,汽车碰到减速带震动,碰撞运动,7
+GQ00387,Skateboard front wheel hitting a pebble and stopping,滑板前轮撞到石子停下,碰撞运动,8
+GQ00388,E-scooter hitting a trash bin with a bang,电动车撞到垃圾桶发出响声,碰撞运动,8
+GQ00389,Motorcycle tire hitting a pothole and jolting,摩托车轮胎击中小坑颠簸,碰撞运动,7
+GQ00390,Apple rolling and hitting a table leg,苹果滚落撞到桌腿,碰撞运动,7
+GQ00391,Egg hitting bowl edge and cracking,鸡蛋掉落碰到碗边裂开,碰撞运动,6
+GQ00392,Watermelon hitting the ground and splitting,西瓜掉在地面裂开,碰撞运动,6
+GQ00393,Milk bottle hitting the ground and spilling milk,奶瓶掉落撞到地面溅奶,碰撞运动,8
+GQ00394,Soda can hitting the wall and denting,可乐罐撞到墙面凹陷,碰撞运动,7
+GQ00395,"A woman raises her hand and waves at the center in daytime, slow motion.",一名女子在白天画面中央举手挥动，慢动作拍摄。,速度,14
+GQ00396,"A woman raises her hand and waves at the center in daytime, fast motion.",一名女子在白天画面中央举手挥动，快动作拍摄。,速度,14
+GQ00397,"A woman raises her hand and waves at the center in daytime, time-lapse.",一名女子在白天画面中央举手挥动，延时摄影拍摄。,速度,13
+GQ00398,"A woman raises her hand and waves at the center in daytime, stop motion.",一名女子在白天画面中央举手挥动，定格动画拍摄。,速度,14
+GQ00399,"A woman raises her hand and waves at the center in daytime, real-time.",一名女子在白天画面中央举手挥动，实时拍摄。,速度,13
+GQ00400,"A woman raises her hand and waves at the center in daytime, reverse playback.",一名女子在白天画面中央举手挥动，倒放视频。,速度,14
+GQ00401,"A woman raises her hand and waves at the center in daytime, frame removal effect.",一名女子在白天画面中央举手挥动，抽帧效果拍摄。,速度,15
+GQ00402,"A woman raises her hand and waves at the center in daytime, motion blur effect.",一名女子在白天画面中央举手挥动，动态模糊效果拍摄。,速度,15
+GQ00403,Basketball thrown from hand into the hoop,篮球从手中抛出落入篮筐,运动轨迹,7
+GQ00404,Pencil rolling off the desk to the floor,铅笔从桌上滚落到地面,运动轨迹,8
+GQ00405,Tennis ball flying over the net and falling down,网球越过球网并下落,运动轨迹,9
+GQ00406,Baseball tossed high and returning to the glove,棒球高高抛出落回手套,运动轨迹,8
+GQ00407,Remote sliding off the sofa onto the carpet,遥控器从沙发滑落到地毯,运动轨迹,8
+GQ00408,Keys sliding from the desk into a drawer gap,钥匙从桌面滑到抽屉缝隙,运动轨迹,9
+GQ00409,Glass marble rolling down a slope,玻璃珠从斜坡滚下来,运动轨迹,6
+GQ00410,Water bottle falling from the bed to the floor,水瓶从床沿掉到地板,运动轨迹,9
+GQ00411,Bicycle rolling downhill,自行车下坡滚动前进,运动轨迹,3
+GQ00412,Skateboard sliding down a ramp to flat ground,滑板从坡道滑下至平地,运动轨迹,8
+GQ00413,Suitcase sliding along a slope to the roadside,行李箱沿斜坡滑到路边,运动轨迹,8
+GQ00414,Loose tire rolling far on the ground,轮胎脱落后在地上滚远,运动轨迹,7
+GQ00415,Apple rolling from the table to the floor,苹果从桌面滚到地上,运动轨迹,8
+GQ00416,Dice thrown onto the dining table,骰子从手中掷向餐桌,运动轨迹,6
+GQ00417,Bottle cap popping off and falling down,瓶盖从瓶口弹出飞落,运动轨迹,7
+GQ00418,Dough piece thrown to the center of the board,面团块被抛到案板中央,运动轨迹,9
+GQ00419,Toy car sliding down an inclined surface,玩具小车从斜面滑下,运动轨迹,7
+GQ00420,Spinning top slowing down to a stop,陀螺旋转到慢停,运动轨迹,7
+GQ00421,Paper ball bouncing off wall then landing,纸球弹到墙壁又落地,运动轨迹,7
+GQ00422,Ball rolling along a circular track,小球沿圆形轨道滚动,运动轨迹,6
+GQ00423,"A woman smiles standing at the center in daytime, pan left.",一名女子在白天微笑站立在画面中央，向左摇镜拍摄。,镜头移动,11
+GQ00424,"A woman smiles standing at the center in daytime, pan right.",一名女子在白天微笑站立在画面中央，向右摇镜拍摄。,镜头移动,11
+GQ00425,"A woman smiles standing at the center in daytime, tilt up.",一名女子在白天微笑站立在画面中央，镜头仰拍。,镜头移动,11
+GQ00426,"A woman smiles standing at the center in daytime, tilt down.",一名女子在白天微笑站立在画面中央，镜头俯下拍摄。,镜头移动,11
+GQ00427,"A woman smiles standing at the center in daytime, truck left.",一名女子在白天微笑站立在画面中央，向左横移拍摄。,镜头移动,11
+GQ00428,"A woman smiles standing at the center in daytime, truck right.",一名女子在白天微笑站立在画面中央，向右横移拍摄。,镜头移动,11
+GQ00429,"A woman smiles standing at the center in daytime, pedestal up.",一名女子在白天微笑站立在画面中央，镜头上升拍摄。,镜头移动,11
+GQ00430,"A woman smiles standing at the center in daytime, pedestal down.",一名女子在白天微笑站立在画面中央，镜头下降拍摄。,镜头移动,11
+GQ00431,"A woman smiles standing at the center in daytime, zoom in.",一名女子在白天微笑站立在画面中央，镜头拉近拍摄。,镜头移动,11
+GQ00432,"A woman smiles standing at the center in daytime, zoom out.",一名女子在白天微笑站立在画面中央，镜头拉远拍摄。,镜头移动,11
+GQ00433,"A woman smiles standing at the center in daytime, tracking shot.",一名女子在白天微笑站立在画面中央，跟镜拍摄。,镜头移动,11
+GQ00434,"A woman smiles standing at the center in daytime, hitchcock zoom.",一名女子在白天微笑站立在画面中央，推拉变焦拍摄。,镜头移动,11
+GQ00435,"A woman smiles standing at the center in daytime, handheld shot.",一名女子在白天微笑站立在画面中央，手持镜头拍摄。,镜头移动,11
+GQ00436,A desk lamp remains fixed on the table.,在书桌上，一盏台灯固定不动。,静态稳定性,8
+GQ00437,An oil painting on the wall stays in place in the art gallery.,在美术馆中，一幅墙上的油画保持原位。,静态稳定性,13
+GQ00438,Books on the shelf remain unmoved in the library.,在图书馆里，一排书架上的书一直不动。,静态稳定性,9
+GQ00439,A coffee cup stays motionless on the café table.,在咖啡馆中，咖啡杯静止在桌子上。,静态稳定性,9
+GQ00440,A statue in the city square remains completely still.,在城市广场上，雕像保持不动。,静态稳定性,9
+GQ00441,The pillow on the bed stays in the same position.,在卧室里，床上的枕头位置不变。,静态稳定性,10
+GQ00442,A glass bottle stays fixed on the kitchen counter.,在厨房的柜台上，一个玻璃瓶一直未移动。,静态稳定性,9
+GQ00443,A clock hangs still on the wall in the train station waiting hall.,在火车站候车厅，时钟悬挂在墙上不动。,静态稳定性,13
+GQ00444,The company logo on the background wall stays unchanged in the meeting room.,在会议室中，背景墙的公司logo保持不动。,静态稳定性,13
+GQ00445,A rock by the pond in the park remains completely still.,在公园的池塘边，一块石头始终不动。,静态稳定性,11
+GQ00446,A park bench in oil painting style.,公园里的长椅，油画风格。,风格,7
+GQ00447,Pedestrians on the street in watercolor painting style.,街道上的行人，水彩画风格。,风格,8
+GQ00448,A coffee stand on the sidewalk in ink wash painting style.,人行道上的咖啡摊，水墨画风格。,风格,11
+GQ00449,A fountain in the plaza in sketch style.,广场中心的喷泉，素描风格。,风格,8
+GQ00450,A fruit stall in the market in woodcut style.,市场里的水果摊，版画风格。,风格,9
+GQ00451,A shopping mall corridor in fresco style.,购物中心的走廊，壁画风格。,风格,7
+GQ00452,Tables and chairs in a café in cartoon style.,咖啡馆里的桌椅，卡通风格。,风格,9
+GQ00453,A supermarket checkout counter in pixel art style.,超市的收银台，像素艺术风格。,风格,8
+GQ00454,A train station platform in impressionism style.,火车站月台，印象派风格。,风格,7
+GQ00455,A bus stop shelter in pointillism style.,公交车站的候车亭，点彩派风格。,风格,7
+GQ00456,A running track in the stadium in expressionism style.,体育场里的跑道，表现主义风格。,风格,9
+GQ00457,A roller coaster in the amusement park in surrealism style.,游乐园的过山车，超现实主义风格。,风格,10
+GQ00458,A diving platform at the swimming pool in pop art style.,游泳池的跳水台，波普艺术风格。,风格,11
+GQ00459,A treadmill in the gym in cubism style.,健身房里的跑步机，立体主义风格。,风格,8
+GQ00460,A cinema screen in ukiyo-e style.,电影院的荧幕，浮世绘风格。,风格,6
+GQ00461,A concert hall stage in oil painting style.,音乐厅的舞台，油画风格。,风格,8
+GQ00462,Bookshelves in the library in watercolor painting style.,图书馆的书架，水彩画风格。,风格,8
+GQ00463,An exhibit in the museum in ink wash painting style.,博物馆的展品，水墨画风格。,风格,10
+GQ00464,A sculpture in the art gallery in sketch style.,美术馆的雕塑，素描风格。,风格,9
+GQ00465,A slide in the playground in woodcut style.,儿童游乐区的滑梯，版画风格。,风格,8
+GQ00466,A waterfall in the tropical rainforest in fresco style.,热带雨林的瀑布，壁画风格。,风格,9
+GQ00467,A caravan of camels in the Sahara Desert in cartoon style.,撒哈拉沙漠的骆驼队，卡通风格。,风格,11
+GQ00468,An iceberg in the Arctic glacier in pixel art style.,北极冰川的冰山，像素艺术风格。,风格,10
+GQ00469,Wildflowers in the alpine meadow in impressionism style.,高山草甸的野花，印象派风格。,风格,8
+GQ00470,A canoe on the Amazon River in pointillism style.,亚马孙河上的独木舟，点彩派风格。,风格,9
+GQ00471,Ships in the Norwegian fjord in expressionism style.,挪威峡湾的船只，表现主义风格。,风格,8
+GQ00472,Flower clusters in the purple lavender field in surrealism style.,紫色薰衣草田的花丛，超现实主义风格。,风格,10
+GQ00473,A bridge in the Venice canals in pop art style.,威尼斯运河的桥，波普艺术风格。,风格,10
+GQ00474,Billboards in New York Times Square in cubism style.,纽约时代广场的灯牌，立体主义风格。,风格,9
+GQ00475,A city gate in Beijing Forbidden City in ukiyo-e style.,北京紫禁城的城门，浮世绘风格。,风格,10

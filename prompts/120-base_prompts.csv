@@ -1,0 +1,121 @@
+id,维度,prompt,en_prompt
+B001,模糊,一只红隼在蓝天中盘旋，画面清晰的。,"A common kestrel is circling in the blue sky, with the scene being clear."
+B002,模糊,高分辨率的镜头下，一只蚂蚁在搬运树叶。,"Under high-resolution magnification, an ant is carrying a leaf."
+B003,模糊,显微镜下的蝴蝶翅膀，细节丰富的纹理清晰可见。,The wings of a butterfly under a microscope reveal intricate textures in clear detail.
+B004,模糊,城市夜景航拍，灯光锐利的，不模糊的。,"Aerial photography of the city at night, with sharp lights that are not blurry."
+B005,模糊,水滴落在荷叶上，高清慢动作，细节丰富的。,"A droplet falls onto a lotus leaf in ultra-slow motion, revealing rich details."
+B006,模糊,老人脸上皱纹特写，高分辨率的皮肤纹理。,"Close-up of the wrinkles on an elderly person's face, with high-resolution skin texture."
+B007,模糊,太空望远镜拍摄的星云，清晰的、色彩分明。,Clear and vividly colored nebula photographs taken by a space telescope.
+B008,模糊,高速列车驶过田野，画面不模糊的、锐利的。,"A high-speed train races through the fields with a sharp, clear image."
+B009,模糊,猫咪瞳孔对焦瞬间，细节丰富的、清晰的。,"The moment a cat's pupils focus, the details are rich and clear."
+B010,模糊,古籍上的文字被扫描，高分辨率的、清晰可辨。,The text on the ancient books has been scanned at high resolution and is clear and legible.
+B011,运动扭曲,一只猎豹奔跑，动作流畅的、运动自然的。,A cheetah runs smoothly and naturally.
+B012,运动扭曲,芭蕾舞者旋转跳跃，运动不扭曲的、无抖动的。,"The ballerina spins and jumps, moving without distortion or shaking."
+B013,运动扭曲,海豚跃出海面，动作流畅的、无形变的。,"The dolphin leaped out of the water with smooth, seamless movements."
+B014,运动扭曲,小孩踢足球，运动自然的、关节无异常弯曲。,"The child kicks a soccer ball, with natural movements and no abnormal bending of the joints."
+B015,运动扭曲,鸟类振翅飞行，翅膀运动不扭曲的。,Birds flap their wings to fly without distorting their wing movement.
+B016,运动扭曲,滑雪运动员转弯，动作流畅的、姿态稳定。,"The skier turns smoothly, with a stable posture."
+B017,运动扭曲,机器人手臂组装零件，运动自然的、无抖动。,"The robotic arm assembles parts with smooth, jitter-free movements."
+B018,运动扭曲,马群奔腾，每匹马动作流畅的、无形变。,The herd of horses gallops with each horse moving smoothly without any distortion.
+B019,运动扭曲,火箭升空，尾焰运动自然的、无撕裂感。,"The rocket launches into the sky, with its exhaust plume moving smoothly without any sense of tearing."
+B020,运动扭曲,跳水运动员翻腾入水，动作流畅的、无卡顿。,"The diver plunges into the water with smooth, seamless movements."
+B021,静物扭曲,航拍穿过森林，树木稳定不扭曲的、透视一致的。,"The aerial shot flies through the forest with trees appearing stable and undistorted, and with consistent perspective."
+B022,静物扭曲,镜头推进古庙大门，空间结构固定的、几何不变形的。,"The camera pushes in on the ancient temple gate, where the spatial structure is fixed and geometrically unchanged."
+B023,静物扭曲,摄像机环绕雕塑，物体稳定不扭曲的、无拉伸。,"The camera surrounds the sculpture, showing the object stable and undistorted, without any stretching."
+B024,静物扭曲,街道长镜头移动，建筑几何不变形的、透视一致。,The long shot of the street moves while the architectural geometry remains undistorted and in consistent perspective.
+B025,静物扭曲,推轨镜头拍摄书房，书架稳定不扭曲的。,"A tracking shot of the study, with the bookshelves appearing stable and undistorted."
+B026,静物扭曲,无人机飞越峡谷，岩壁结构固定的、无畸变。,The drone flew over the canyon with the rock formations fixed and undistorted below.
+B027,静物扭曲,扫描式镜头拍摄博物馆展品，空间结构固定。,"A scanning lens is used to photograph the museum exhibits, with the spatial structure fixed."
+B028,静物扭曲,摇臂拍摄城市天际线，透视一致的、无弯曲。,Use a boom shot to capture the city skyline with consistent perspective and no distortion.
+B029,静物扭曲,跟随镜头穿过走廊，墙壁稳定不扭曲的。,"Follow the camera as it moves down the corridor, with the walls appearing steady and undistorted."
+B030,静物扭曲,移动拍摄图书馆书架，几何不变形的、结构清晰。,Shoot the library bookshelves from a moving angle to ensure geometric distortion is avoided and the structure is clear.
+B031,时间不稳定,室内静物摄影，静态物体恒定的、无漂移。,Indoor still life photography involves static objects that remain constant and do not drift.
+B032,时间不稳定,监控摄像头拍摄客厅，时间稳定性高的、无闪烁。,A surveillance camera monitors the living room with high time stability and no flicker.
+B033,时间不稳定,长时间延时拍摄星空，帧间一致性好的。,Long exposure star photography with good consistency between frames.
+B034,时间不稳定,书桌上的台灯持续亮着，无闪烁的、稳定。,The desk lamp remained on steadily without any flicker.
+B035,时间不稳定,挂钟挂在墙上，指针走动但背景无漂移。,"The wall clock hangs on the wall, its hands moving without any background drift."
+B036,时间不稳定,房间内无人走动，所有物体恒定的、无抖动。,"There was no movement in the room, and all objects remained still without any shaking."
+B037,时间不稳定,延时拍摄沙漠，沙丘静止部分无变化。,"The desert is being shot in time-lapse, with the sand dunes remaining stationary and unchanged."
+B038,时间不稳定,固定镜头拍摄咖啡杯，蒸汽飘散但杯体稳定。,A fixed shot of a coffee cup with steam rising but the cup itself remaining steady.
+B039,时间不稳定,夜间街灯照明，光照稳定，物体无闪烁。,Night street lamps provide steady lighting with no flicker.
+B040,时间不稳定,水族箱中鱼游动，背景岩石恒定的、无漂移。,Fish swim in the aquarium while the background rocks remain stationary and unchanging.
+B041,噪点,暗光环境下拍摄猫眼，无噪点的、干净的。,"Taking photos of cat eyes in low light with no noise, clean and clear."
+B042,噪点,冬夜雪景，画面平滑的、纹理纯净的。,"Winter night snowscape, smooth and pure in texture."
+B043,噪点,星空延时摄影，信号干净的、无颗粒感。,Star trail time-lapse photography with a clean signal and no grain.
+B044,噪点,地下洞穴拍摄钟乳石，画面干净的、无噪点。,Shooting stalactites in underground caves produces clean and noise free images.
+B045,噪点,低光照下的城市街景，图像平滑的、无杂色。,"A city street scene in low light, with a smooth and noise-free image."
+B046,噪点,深海拍摄发光水母，纹理纯净的、无噪点。,"Shooting glowing jellyfish in the deep sea, with textures that are pristine and noise-free."
+B047,噪点,雾中森林，画面干净的、细节清晰。,"A mist-covered forest, with a clean image and clear details."
+B048,噪点,黑白胶片风格街拍，信号干净的、无颗粒。,Black and white film-style street photography with clean signals and no grain.
+B049,噪点,高ISO夜景车流，但画面无噪点的、平滑。,"High ISO night scene with vehicle traffic, but the image is noise-free and smooth."
+B050,噪点,显微摄影细胞结构，纹理纯净的、清晰。,The cellular structure in the photomicrograph is pure and clear in texture.
+B051,异常光照,清晨阳光洒进森林，阴影自然的、曝光均衡。,"Morning sunlight filters into the forest, casting natural shadows with even exposure."
+B052,异常光照,室内阅读场景，光线正常的、无过曝。,An indoor reading scene with normal lighting and no overexposure.
+B053,异常光照,日落时分海滩，光照稳定的、色彩渐变自然。,"At sunset, the beach is bathed in stable lighting with natural gradients of color."
+B054,异常光照,摄影棚人像拍摄，布光均匀、无异常高光。,Even lighting for studio portrait photography with no unwanted highlights.
+B055,异常光照,阴天城市街景，光线柔和、曝光均衡。,Overcast city street scene with soft lighting and even exposure.
+B056,异常光照,蜡烛照明的晚餐，火焰光照稳定、无闪烁。,A candlelit dinner with a steady flame that provides stable light without flickering.
+B057,异常光照,隧道出口迎光行驶，动态范围良好、无过曝。,"Driving out of the tunnel into the light, the dynamic range is good with no overexposure."
+B058,异常光照,山顶日出，天空渐亮、光线规律变化。,"The sunrise at the mountaintop, with the sky gradually brightening and the light changing rhythmically."
+B059,异常光照,博物馆展柜照明，光线正常、阴影自然。,"The museum display case lighting is normal, with shadows appearing naturally."
+B060,异常光照,舞台聚光灯打在演员身上，光照稳定、无跳变。,"The stage spotlight falls on the actor, with the light steady and without any flicker."
+B061,"模糊,静物扭曲",高分辨率的森林航拍，树木在镜头移动中稳定不扭曲的。,"High-resolution aerial photos of the forest, with trees remaining stable and undistorted as the camera moves."
+B062,"模糊,运动扭曲",猎豹奔跑动作流畅的，画面清晰的、细节丰富。,"The cheetah's sprint is smooth, with clear visuals and rich details."
+B063,"时间不稳定,噪点",延时星空摄影，帧间一致性好的，信号干净的。,Time-lapse star photography with good consistency between frames and clean signals.
+B064,"时间不稳定,异常光照",室内静物摄影，静态物体恒定的，光线正常的。,Indoor still life photography with stationary objects and normal lighting.
+B065,"噪点,异常光照",暗光下拍摄猫，无噪点的，曝光均衡的。,Photographing a cat in low light with no noise and even exposure.
+B066,"模糊,静物扭曲",无人机穿越峡谷，空间结构固定的，画面清晰的。,"The drone flies through the canyon, with a fixed spatial structure and clear visuals."
+B067,"运动扭曲,模糊",芭蕾舞者旋转，动作流畅的，画面不模糊的。,"The ballerina spins gracefully, and the image is not blurry."
+B068,"时间不稳定,异常光照",延时拍摄城市夜景，无闪烁的，光照稳定的。,Capture the cityscape at night with long exposure to avoid flicker and ensure stable lighting.
+B069,"噪点,模糊",显微镜下细胞分裂，纹理纯净的，细节丰富的。,"Cell division under the microscope, with pure texture and rich details."
+B070,"模糊,时间不稳定",老人面部特写，皮肤纹理清晰，无漂移的。,"Close-up of the elderly person's face, with clear skin texture and no blurring."
+B071,"运动扭曲,噪点",雪地行军，士兵动作自然的，画面干净的。,"Soldiers march through the snow with natural movements, and the scene is clean and clear."
+B072,"运动扭曲,异常光照",火箭发射，尾焰运动不扭曲的，无过曝的。,"The rocket launch, with the tail flame moving without distortion and no overexposure."
+B073,"静物扭曲,时间不稳定",图书馆推轨镜头，书架几何不变形的，静态恒定的。,The library's tracking shot shows bookshelves that remain geometrically unchanged and statically constant.
+B074,"噪点,异常光照",深海拍摄，画面无噪点的，光线正常的。,Deep sea footage with no grain and properly lit.
+B075,"静物扭曲,异常光照",摇臂拍摄舞台，透视一致的，光照稳定。,Use a jib to film the stage with consistent perspective and stable lighting.
+B076,"模糊,运动扭曲",高速列车驶过，画面锐利的，运动自然的。,The high-speed train whizzes by with a sharp image and natural motion.
+B077,"时间不稳定,噪点",监控画面客厅，无闪烁的，无噪点的。,A smooth and clear living room surveillance video with no flicker or noise.
+B078,"异常光照,模糊",日出时分山巅，阴影自然的，细节丰富的。,"At sunrise, the mountain peak is naturally shaded, with rich details."
+B079,"运动扭曲,静物扭曲",机器人组装零件，运动流畅的，空间结构固定。,"The robot assembles parts with smooth movements, and its spatial structure is fixed."
+B080,"时间不稳定,异常光照",星空延时，帧间一致性好，曝光均衡。,The star trail timelapse has good consistency between frames and even exposure.
+B081,"模糊,静物扭曲,异常光照",高分辨率森林航拍，树木稳定不扭曲的，光照稳定。,"High-resolution aerial photos of forests with trees appearing stable and undistorted, and consistent lighting."
+B082,"模糊,运动扭曲,噪点",猎豹奔跑动作流畅的，画面清晰的，无噪点的。,"A smooth, clear image of a cheetah running without any noise."
+B083,"时间不稳定,噪点,异常光照",延时星空，帧间一致性好，信号干净，曝光均衡。,"The delayed starry sky has good consistency between frames, clean signals, and even exposure."
+B084,"静物扭曲,模糊,时间不稳定",无人机穿越古庙，空间结构固定，画面锐利，无闪烁。,"The drone flew through the ancient temple with a stable structure, sharp images, and no flicker."
+B085,"运动扭曲,模糊,时间不稳定",芭蕾舞者旋转，动作流畅的，服装纹理清晰，背景无漂移。,"The ballerina spins smoothly, with clear textures in her costume, and the background remains still without any blur."
+B086,"噪点,异常光照,模糊",暗光街景，无噪点的，光照稳定，细节丰富。,"Dark street scene, noise-free, with stable lighting and rich details."
+B087,"模糊,噪点,时间不稳定",显微摄影蝴蝶翅，细节丰富，纹理纯净，帧间一致。,"Microscopic photography of butterfly wings, with rich details, pure texture, and consistent frame-to-frame quality."
+B088,"异常光照,模糊",日出森林，光线正常，阴影自然，细节丰富的。,"The sunrise in the forest is normal in terms of lighting, with natural shadows and rich details."
+B089,"静物扭曲,时间不稳定,模糊",航拍城市，几何不变形的，帧间一致性好，高分辨率。,"Aerial photography of the city with no geometric distortion, good inter-frame consistency, and high resolution."
+B090,"运动扭曲,模糊,异常光照",跳水运动员入水，动作流畅的，水面清晰，光照稳定。,"The diver enters the water smoothly, with a clear surface and stable lighting."
+B091,"运动扭曲,噪点,时间不稳定",雪地中行走，运动自然的，画面干净的，静态背景恒定。,"Walking in the snow, the movement is natural, the picture is clean, and the static background is constant."
+B092,"静物扭曲,异常光照,噪点",博物馆展品环绕拍摄，空间结构固定，光照稳定，无噪点。,The museum exhibits are surrounded by fixed spatial structures with stable lighting and no noise.
+B093,"模糊,运动扭曲,异常光照",老人阅读，面部细节清晰，动作自然，光线正常。,"An elderly person is reading with clear facial details, natural movements, and normal lighting."
+B094,"运动扭曲,异常光照,噪点",火箭升空，运动不扭曲的，尾焰无过曝，信号干净。,"The rocket launches into the sky with smooth motion, no distortion, the tail flame is not overexposed, and the signal is clean."
+B095,"静物扭曲,时间不稳定,模糊",书房长镜头，书架稳定不扭曲的，静态无漂移，画面锐利。,"A long shot of the study, with bookshelves that remain stable and undistorted, static without any drifting, and the image is sharp."
+B096,"运动扭曲,模糊,异常光照",海豚跃出海面，动作流畅的，海水细节丰富，光照稳定。,"The dolphin leaps out of the water smoothly, with rich details of the seawater and stable lighting."
+B097,"时间不稳定,噪点,异常光照",城市夜景延时，帧间一致性好，无噪点，曝光均衡。,"The city night scene time-lapse has good consistency between frames, no noise, and even exposure."
+B098,"异常光照,模糊,运动扭曲",摄影棚人像，布光均匀，皮肤纹理清晰，无抖动。,Evenly lit studio portrait with clear skin texture and no shaking.
+B099,"噪点,静物扭曲,异常光照",洞穴钟乳石，画面干净，几何不变形，光照稳定。,"Cave stalactites, with a clean composition, geometric shapes that are not distorted, and stable lighting."
+B100,"模糊,噪点,时间不稳定",星空望远镜影像，细节丰富，信号干净，帧间一致。,"The starry sky telescope images are rich in detail, have clean signals, and show consistency from frame to frame."
+B101,"模糊,静物扭曲,异常光照,噪点",高分辨率森林航拍，树木稳定不扭曲的，光照稳定，无噪点。,"High-resolution aerial photos of forests with trees appearing stable and undistorted, even lighting, and no noise."
+B102,"运动扭曲,模糊,时间不稳定,异常光照",猎豹奔跑动作流畅的，画面清晰，背景恒定，无过曝。,"The cheetah's running movements are smooth, the image is clear, the background is constant, and there is no overexposure."
+B103,"时间不稳定,噪点,异常光照,模糊",延时星空，帧间一致性好，信号干净，曝光均衡，细节丰富。,"The star trail delay is well consistent between frames, with clean signals, even exposure, and rich details."
+B104,"静物扭曲,模糊,时间不稳定,异常光照",无人机穿越峡谷，空间结构固定，画面锐利，无闪烁，光照稳定。,"The drone flew through the canyon with a stable spatial structure, producing sharp images without flicker and with consistent lighting."
+B105,"运动扭曲,模糊,时间不稳定,噪点",芭蕾舞者表演，动作流畅，服装纹理清晰，背景恒定，无噪点。,"The ballet dancers perform with smooth movements, their costumes have clear textures, and the background remains constant without any noise."
+B106,"噪点,异常光照,模糊,时间不稳定",暗光城市夜景，无噪点，曝光均衡，画面锐利，帧间一致。,"Dark city nightscapes, noise-free, with even exposure, sharp images, and consistent frame-to-frame quality."
+B107,"模糊,噪点,时间不稳定,异常光照",显微摄影细胞，细节丰富，纹理纯净，帧间一致，光照稳定。,"Microscopic cell photography, rich in detail, with clean textures, consistent frame-to-frame, and stable lighting."
+B108,"异常光照,模糊,时间不稳定,噪点",日出山顶，光线正常，画面清晰，静态背景恒定，无噪点。,"The sunrise at the mountain top has normal lighting, a clear picture, a constant static background, and no noise."
+B109,"静物扭曲,模糊,异常光照,时间不稳定",航拍古城，几何不变形，高分辨率，光照稳定，帧间一致。,"Aerial photography of the ancient city, with no geometric distortion, high resolution, stable lighting, and consistent frame-by-frame quality."
+B110,"运动扭曲,模糊,异常光照,时间不稳定",跳水运动员，动作流畅，水面清晰，光照稳定，无闪烁。,"The diver's movements are smooth, the water surface is clear, the lighting is stable, and there is no flicker."
+B111,"运动扭曲,噪点,时间不稳定,异常光照",雪地行军，士兵动作自然，画面干净，背景恒定，曝光均衡。,"The soldiers march through the snow with natural movements, the scene is clean, the background is constant, and the exposure is well-balanced."
+B112,"静物扭曲,异常光照,噪点,时间不稳定",博物馆环绕拍摄，空间结构固定，光照稳定，无噪点，帧间一致。,"The museum was filmed from all angles with a fixed spatial structure, stable lighting, no noise, and consistent frames."
+B113,"模糊,运动扭曲,异常光照,时间不稳定",老人阅读，面部细节清晰，动作自然，光线正常，背景稳定。,"An elderly person is reading with clear facial details, natural movements, normal lighting, and a stable background."
+B114,"运动扭曲,异常光照,噪点,模糊",火箭发射，运动不扭曲，无过曝，信号干净，画面清晰。,"The rocket launch was smooth with no distortion, no overexposure, and clear signals, resulting in crisp visuals."
+B115,"静物扭曲,时间不稳定,模糊,异常光照",书房推轨镜头，书架几何不变形，静态恒定，画面锐利，光照稳定。,"A tracking shot of the study shows the bookshelves with unchanged geometric shapes, remaining static and constant, with a sharp image and stable lighting."
+B116,"模糊,静物扭曲,异常光照,噪点,时间不稳定",高分辨率森林航拍，树木稳定不扭曲，光照稳定，无噪点，帧间一致性好。,"High-resolution aerial photos of forests with stable and undistorted trees, consistent lighting, no noise, and good inter-frame consistency."
+B117,"运动扭曲,模糊,时间不稳定,异常光照,噪点",猎豹奔跑动作流畅，画面清晰，背景恒定，无过曝，信号干净。,"The cheetah's running movements are smooth, the image is clear, the background is constant, there is no overexposure, and the signal is clean."
+B118,"模糊,运动扭曲,噪点,异常光照,时间不稳定",延时星空摄影，画面清晰，运动自然（星轨），无噪点，光照稳定，帧间一致。,"Timelapse star photography with clear images, natural motion (star trails), no noise, stable lighting, and consistent frames."
+B119,"静物扭曲,运动扭曲,模糊,时间不稳定,异常光照",无人机穿越古庙，空间结构固定，动作流畅，画面锐利，无闪烁，曝光均衡。,"The drone flew through the ancient temple with stable spatial structure, smooth movements, sharp images, no flicker, and even exposure."
+B120,"模糊,运动扭曲,噪点,时间不稳定,异常光照",显微摄影细胞分裂，细节丰富，运动自然，纹理纯净，帧间一致，光照稳定。,"Microscopic photography of cell division, with rich details, natural movement, clean texture, consistent frames, and stable lighting."

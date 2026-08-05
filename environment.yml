@@ -1,0 +1,12 @@
+name: cvpr-video-eval
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip>=24
+  - ffmpeg>=6
+  - pip:
+      - -r requirements.txt
