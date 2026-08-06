@@ -9,6 +9,8 @@
 
 参评者使用仓库中的四套 prompt suite 生成视频，按照规定目录准备视频和 CSV 映射文件后，运行一个脚本即可完成输入检查、三类评测、分数汇总和可选的邮件通知。
 
+VGA-Bench 公开数据集与标注可从 Hugging Face 下载：**[BestiVictoryLab/VGA-Bench](https://huggingface.co/datasets/BestiVictoryLab/VGA-Bench)**。
+
 > 本仓库只负责评测，不包含待测视频生成模型。参评者需要使用自己的模型生成视频，并自行准备 `test/` 目录中的视频与 CSV。
 
 ## 1. VGA-Bench 与 VGA-BenchV2 简介
@@ -103,9 +105,13 @@ ffprobe -version
 
 ## 5. 下载基础模型与评测权重
 
-评测所需模型和权重已上传至 Google Drive：
+请从 Qwen 官方 Hugging Face 仓库自行下载 Qwen3-VL-32B-Instruct 基础模型：
 
-**[下载 VGA-Bench 与 VGA-BenchV2 评测模型和权重](https://drive.google.com/drive/folders/18j3ExC10LgmnE47k70YvATtXNbhnogMW?usp=drive_link)**
+**[Qwen/Qwen3-VL-32B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct)**
+
+Qwen3-VL-32B-Instruct 未包含在本项目的 Google Drive 文件夹中。VGA-Bench 与 VGA-BenchV2 的评测权重，包括 VAQA 权重以及 VGQA/VTAG LoRA adapters，可从 Google Drive 下载：
+
+**[下载 VGA-Bench 与 VGA-BenchV2 评测权重](https://drive.google.com/drive/folders/18j3ExC10LgmnE47k70YvATtXNbhnogMW?usp=drive_link)**
 
 下载后按以下结构放置。不要只下载 `.safetensors` 而遗漏对应的 `adapter_config.json`。
 
