@@ -23,7 +23,7 @@ VGA-Bench evaluates text-to-video generation models from complementary perspecti
 
 The shared idea of VGA-Bench and VGA-BenchV2 is to model aesthetic quality, general video generation quality, and controllable visual-attribute alignment separately, then report interpretable dimension-level results. This repository corresponds to their evaluation components and does not include the papers' training or video-generation code.
 
-VGA-Bench was published in the **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**. VGA-BenchV2 has not yet been published. The [Citation](#13-citation) section therefore remains the citation for the published VGA-Bench paper.
+VGA-Bench was published in the **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**. VGA-BenchV2 has not yet been published. The [Citation](#12-citation) section therefore remains the citation for the published VGA-Bench paper.
 
 ## 2. Repository Structure
 
@@ -275,7 +275,7 @@ VAQA/modules/ViT-B-32.pt
 | `VGQA_MAX_TOKENS` | `512` | Maximum generated tokens per prediction |
 | `VGQA_TEMPERATURE` | `0` | Generation temperature; the default is deterministic |
 
-VGQA reports 31 question-level attributes from `VGQA/index.json`, excluding index 23, “Is the video content aesthetically pleasing?”. The normalized scores of the available attributes are averaged to produce the VGQA overall score.
+VGQA reports 31 question-level attributes.
 
 ### 7.4 VTAG Configuration
 
@@ -326,6 +326,8 @@ Email delivery is disabled by default.
 | `RECEIVER_EMAIL` | the value configured in the script | Recipient address; participants should explicitly set their own address |
 | `EMAIL_SUBJECT` | `[CVPR Evaluation Results] <MODEL_NAME> Score Report` | Email subject concept; the current script uses a Chinese default subject |
 | `EMAIL_ATTACHMENTS` | three default result files | Comma-separated attachment paths |
+
+By enabling email submission (`SEND_EMAIL=true`), the submitter confirms that they are willing to make the scores associated with the submitted `MODEL_NAME` public and to have those scores included in the official VGA-Bench/VGA-BenchV2 **Leaderboard**. Do not enable email submission if you do not agree to public score disclosure. The submitter is responsible for choosing an accurate model name and for ensuring that they are authorized to submit the results.
 
 Never commit a mailbox password, SMTP authorization code, cloud-drive token, or other credential to the repository, documentation, or public logs. Set credentials only in the current shell environment.
 
@@ -384,23 +386,7 @@ outputs/<MODEL_NAME>-<YYYYMMDD-HHMMSS>/
 | `dimension_scores_summary.csv` | Full dimension-level summary for all three tasks |
 | `model_scores.csv` | VAQA, VGQA, and VTAG overall scores |
 
-## 10. Score Interpretation
-
-### VAQA
-
-VAQA produces attribute scores on a 0–10 scale. Dimension aggregation divides these values by 10 to normalize them to 0–1. The VAQA overall score uses the `overall` dimension.
-
-### VGQA
-
-VGQA maps the q1–q6 answers associated with each prompt back to `VGQA/index.json`. It retains 31 question-level attributes, normalizes their scores, and computes an equal-weight average.
-
-### VTAG
-
-VTAG compares predicted visual attributes against `prompts/220-tag-prompts.csv`. For multi-label attributes, every ground-truth label must be included in the prediction set. The `overall` row in `vtag_dim_scores.csv` is not counted again when the VTAG task score is summarized.
-
-The three task scores are reported separately. Do not combine them into a new single ranking score unless the paper or an official evaluation protocol explicitly defines that aggregation.
-
-## 11. Troubleshooting
+## 10. Troubleshooting
 
 ### Qwen Model Cannot Be Found
 
@@ -447,24 +433,14 @@ Possible mitigations include:
 - stop unrelated GPU workloads;
 - confirm that the base model is not being loaded multiple times in the same process.
 
-### Can `__pycache__` Be Deleted?
-
-Yes. `__pycache__/` directories and `.pyc` files do not need to be distributed. Python recreates them automatically. Add the following entries to `.gitignore`:
-
-```gitignore
-__pycache__/
-*.py[cod]
-outputs/
-```
-
-## 12. Data and Security Notes
+## 11. Data and Security Notes
 
 - Do not publish private participant videos without authorization.
 - Do not commit SMTP authorization codes, cloud-drive tokens, or other secrets.
 - Evaluation outputs may contain local video paths; inspect and sanitize them before publication.
 - Ensure that the candidate videos, generation model, base models, adapters, and evaluation weights are used in accordance with their licenses and data-use terms.
 
-## 13. Citation
+## 12. Citation
 
 If this repository is useful for your research, please cite:
 
@@ -482,7 +458,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 }
 ```
 
-## 14. License
+## 13. License
 
 Add an explicit `LICENSE` file before public release and verify the licenses that apply to:
 
