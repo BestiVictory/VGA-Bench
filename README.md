@@ -9,6 +9,8 @@ This repository provides video-generation evaluation components associated with 
 
 Participants generate videos with their own models using the four official prompt suites, prepare the required videos and CSV mappings under `test/`, and run a single shell script to perform input validation, three evaluation tasks, score aggregation, and optional email notification.
 
+The public VGA-Bench dataset and annotations are available on Hugging Face: **[BestiVictoryLab/VGA-Bench](https://huggingface.co/datasets/BestiVictoryLab/VGA-Bench)**.
+
 > This repository contains the evaluation pipeline only. It does not include a candidate text-to-video generation model. Participants must generate their own videos and prepare the contents of the `test/` directory.
 
 ## 1. About VGA-Bench and VGA-BenchV2
@@ -105,9 +107,13 @@ ffprobe -version
 
 ## 5. Download the Base Model and Evaluation Weights
 
-All required evaluation models and weights are available from Google Drive:
+Download the Qwen3-VL-32B-Instruct base model directly from its official Hugging Face repository:
 
-**[Download the VGA-Bench and VGA-BenchV2 models and evaluation weights](https://drive.google.com/drive/folders/18j3ExC10LgmnE47k70YvATtXNbhnogMW?usp=drive_link)**
+**[Qwen/Qwen3-VL-32B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct)**
+
+Qwen3-VL-32B-Instruct is not included in the project Google Drive folder. The VGA-Bench and VGA-BenchV2 evaluation weights, including the VAQA weights and the VGQA/VTAG LoRA adapters, are available from Google Drive:
+
+**[Download the VGA-Bench and VGA-BenchV2 evaluation weights](https://drive.google.com/drive/folders/18j3ExC10LgmnE47k70YvATtXNbhnogMW?usp=drive_link)**
 
 After downloading, place the files in the following structure. Do not download an `adapter_model.safetensors` file without its corresponding `adapter_config.json`.
 
