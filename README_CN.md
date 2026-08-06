@@ -18,7 +18,7 @@ VGA-Bench 面向文本到视频生成模型，目标是从互补角度评估生�
 | 任务 | 输入 prompt suite | 主要评价内容 | 输出 |
 | --- | --- | --- | --- |
 | VAQA | `200-aesthetic-prompts` | 整体审美、构图、景别、光照、影调、色彩、景深、表情、服装、化妆 | 各维度归一化分数与 VAQA 总分 |
-| VGQA | `120-base_prompts`、`476-GQprompts` | 通过问题级视频质量问答评估基础质量、时序稳定性、运动、场景和通用生成质量 | `index.json` 中除“视频内容是否具有美感？”外的 31 个子属性分数与 VGQA 总分 |
+| VGQA | `120-base_prompts`、`476-GQprompts` | 通过问题级视频质量问答评估基础质量、时序稳定性、运动、场景和通用生成质量 | 31 个子属性分数与 VGQA 总分 |
 | VTAG | `220-tag-prompts` | 构图、光源、景别、景深、饱和度、亮度、色温、对比度等可控视觉属性与 prompt 的一致性 | 11 个属性准确率与 VTAG 总分 |
 
 VGA-Bench 与 VGA-BenchV2 的共同思路是将审美质量、通用视频质量和可控视觉属性一致性分别建模，再以可解释的维度级结果呈现模型能力。当前仓库对应两项工作的评测组件，不包含论文训练代码和视频生成代码。
@@ -275,7 +275,7 @@ VAQA/modules/ViT-B-32.pt
 | `VGQA_MAX_TOKENS` | `512` | 单条预测最大生成 token 数 |
 | `VGQA_TEMPERATURE` | `0` | VGQA 生成温度，默认确定性生成 |
 
-VGQA 最终输出 `index.json` 中除 index 23“视频内容是否具有美感？”外的 31 个问题级子属性，并对有效属性等权平均得到 VGQA 总分。
+VGQA 最终输出 31 个问题级子属性。
 
 ### 7.4 VTAG 配置
 
@@ -326,6 +326,8 @@ VTAG 真值来自 `prompts/220-tag-prompts.csv`。
 | `RECEIVER_EMAIL` | 脚本内默认值 | 收件邮箱；参评者应显式设置为自己的邮箱 |
 | `EMAIL_SUBJECT` | `[CVPR评测结果] <MODEL_NAME> 评分报告` | 邮件主题 |
 | `EMAIL_ATTACHMENTS` | 三个默认结果文件 | 逗号分隔的附件列表 |
+
+启用邮件提交（`SEND_EMAIL=true`）即表示提交者同意公开以本次 `MODEL_NAME` 为模型名称的相关评测分数，并同意将这些分数加入 VGA-Bench/VGA-BenchV2 官方 **排行榜（Leaderboard）**。如果不同意公开分数，请勿启用邮件提交。提交者应确保模型名称准确，并确认自己有权提交和公开相关结果。
 
 不要把邮箱密码或授权码写入代码、README、提交记录或公开日志。推荐只在当前终端临时设置环境变量。
 
@@ -386,23 +388,7 @@ outputs/<MODEL_NAME>-<YYYYMMDD-HHMMSS>/
 | `dimension_scores_summary.csv` | 三项任务的完整维度汇总 |
 | `model_scores.csv` | VAQA、VGQA、VTAG 三项总分 |
 
-## 10. 分数说明
-
-### VAQA
-
-VAQA 模型输出 0–10 范围的属性分数，维度汇总时除以 10 归一化到 0–1。VAQA 总分使用 `overall` 维度。
-
-### VGQA
-
-VGQA 根据每条 prompt 对应的 q1–q6 问题，将模型答案映射回 `VGQA/index.json`。最终保留 31 个问题级属性，分别归一化后等权平均。
-
-### VTAG
-
-VTAG 将视频属性预测与 `prompts/220-tag-prompts.csv` 的真值比较。多标签属性要求真值标签全部出现在预测集合中。`vtag_dim_scores.csv` 中的“总体”行不会被再次计入任务总分。
-
-三项任务分数分别报告，不建议在缺少论文定义的情况下自行将三项分数再次平均为单一排名分数。
-
-## 11. 常见问题
+## 10. 常见问题
 
 ### 找不到 Qwen 模型
 
@@ -449,24 +435,14 @@ VALIDATE_VIDEO_TIMEOUT=600 bash run_all.sh
 - 减少同时运行的其他 GPU 任务；
 - 检查是否误加载了多个基础模型副本。
 
-### 是否可以删除 `__pycache__`
-
-可以。`__pycache__/` 和 `.pyc` 文件不影响推理，Python 下次运行时会自动生成。公开代码时应在 `.gitignore` 中忽略：
-
-```gitignore
-__pycache__/
-*.py[cod]
-outputs/
-```
-
-## 12. 数据与安全说明
+## 11. 数据与安全说明
 
 - 不要提交参评者的私有视频，除非已获得公开授权；
 - 不要提交 SMTP 授权码、云盘令牌或其他凭证；
 - 运行结果可能包含本地视频路径，公开结果前请检查并脱敏；
 - 请确保待评测视频和使用的生成模型符合其许可证及数据使用条款。
 
-## 13. Citation
+## 12. Citation
 
 如果本仓库对您的研究有所帮助，请引用：
 
@@ -484,7 +460,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 }
 ```
 
-## 14. License
+## 13. License
 
 请在公开发布前在项目根目录添加明确的 `LICENSE` 文件，并分别确认以下内容的许可证：
 
