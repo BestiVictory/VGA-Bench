@@ -6,7 +6,7 @@ torchvision==0.19.0+cu124
 
 # Qwen3-VL + LoRA inference
 transformers==5.12.1
-ms-swift==4.4.2
+ms-swift==4.4.0
 peft==0.19.1
 accelerate==1.14.0
 qwen-vl-utils==0.0.14
